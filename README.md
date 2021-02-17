@@ -7,7 +7,7 @@ The microprocessor handles the game logic and graphics generation while the prog
 Youtube Video Demo: https://www.youtube.com/watch?v=kSF9BcSRgo0&feature=youtu.be
 
 IP Integrator Schematic:
-![Screenshot](IP_Integrator.png)
+![Screenshot](IP_Integrator.PNG)
 
 Pictures:
 ![Screenshot](picture_1.jpg)
