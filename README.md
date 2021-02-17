@@ -9,6 +9,6 @@ Youtube Video Demo: https://www.youtube.com/watch?v=kSF9BcSRgo0&feature=youtu.be
 IP Integrator Schematic:
 ![Screenshot](IP_Schematic.PNG)
 
-Pictures:
+Hardware Pictures:
 ![Screenshot](picture_1.jpg)
 ![Screenshot](picture_0.jpg)
